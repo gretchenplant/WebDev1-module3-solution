@@ -1,0 +1,62 @@
+body {
+    font-size: 16px;
+    color:black;
+    background-color: white;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/**Header**/
+#header-nav {
+    background-color: #49ABB3;
+    border-radius: 0;
+    border: 0;
+        
+}
+
+.navbar-header {
+    padding-top:25px;
+    color: black;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.navbar-header h1 {
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #222;
+}
+
+.navbar-header a:hover, .navbar-header a:focus {
+    text-decoration: none;
+}
+
+#navbar-collapsed-menu {
+    text-align: center;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black; 
+    background-color:#9CF8FF ;
+}
+
+.navbar-default .navbar-nav>li:hover>a{
+    color: white; 
+}
+
+.item-title {
+    text-align: center;
+    font-size: 1.4em;
+}
+.item-description {
+    background-color:#FFB482 ;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
